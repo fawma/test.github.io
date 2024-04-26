@@ -1,1 +1,14 @@
+.scroll-watcher {
+  height: 10px;
+  position: fixed;
+  top: 0;
+  z-index; 1000;
+  background-color; lime;
+  width: 100%;
+}
 
+@animation scroll-watcher {
+
+
+link: https://youtu.be/UmzFk68Bwdk?feature=shared
+  
